@@ -17,6 +17,7 @@
         <license>GPL-2.0-only</license>
         <website>https://fmstream.org/index.php?c=FT</website>
         <source>https://github.com/antonic901/plugin.audio.fmstream</source>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
         <summary lang="en_GB">Listen radio stations from FMStream.org</summary>
         <description lang="en_GB">You can now enjoy listening over 30k stations from all around the world thanks to FMStream.org API.</description>
     </extension>
